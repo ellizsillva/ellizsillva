@@ -1,13 +1,14 @@
 # Sobre Mim
 
 Olá! 👋 Sou uma Engenheira da Computação com uma paixão por tecnologia e inovação. 
-Tenho uma pós-graduação em Inteligência Artificial e Machine Learning, o que me permite explorar profundamente o vasto mundo da ciência de dados.
+Tenho uma pós-graduação em Inteligência Artificial e Machine Learning
 
 ## Minha Jornada
 
 - 🌱 Atualmente, estou aprendendo Python e R para fortalecer minhas habilidades em ciência de dados.
 - 🔍 Estou aprofundando meu conhecimento em áreas como Machine Learning, Visão Computacional e Inteligência Artificial Genética.
 - 💼 Tenho interesse especial em projetos relacionados a Machine Learning, Python e Azure.
+- 🎯 Meu objetivo profissional é me tornar uma Engenheira de IA.
 
 ## Contato
 
